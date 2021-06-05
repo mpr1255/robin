@@ -1,0 +1,8 @@
+---
+title: "Robin Munro Bibliography"
+output: 
+  pdf_document:
+bibliography: robin_biblio.bib
+fontsize: 12pt
+nocite: '@*'
+---
