@@ -1,0 +1,52 @@
+HTTP/1.1 201 Created
+Server: Cowboy
+Connection: keep-alive
+Date: Sat, 19 Jun 2021 06:48:47 GMT
+Status: 201 Created
+Content-Type: text/html;charset=utf-8
+Location: https://git.io/JnzCa
+Content-Length: 74
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Runtime: 0.019855
+X-Node: bd40f43e-c43a-454d-a7aa-041e6481bf56
+X-Revision: 392798d237fc1aa5cd55cada10d2945773e741a8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Via: 1.1 vegur
+
+https://github.com/mpr1255/robin/raw/main/robin_munro_twitter_tributes.pdfHTTP/1.1 201 Created
+Server: Cowboy
+Connection: keep-alive
+Date: Sat, 19 Jun 2021 06:48:48 GMT
+Status: 201 Created
+Content-Type: text/html;charset=utf-8
+Location: https://git.io/JnzCw
+Content-Length: 68
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Runtime: 0.008956
+X-Node: d382c0fb-104b-44ac-9da0-25a89c2bd9b8
+X-Revision: 392798d237fc1aa5cd55cada10d2945773e741a8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Via: 1.1 vegur
+
+https://github.com/mpr1255/robin/raw/main/robin_munro_obituaries.pdfHTTP/1.1 201 Created
+Server: Cowboy
+Connection: keep-alive
+Date: Sat, 19 Jun 2021 06:48:49 GMT
+Status: 201 Created
+Content-Type: text/html;charset=utf-8
+Location: https://git.io/JnzCr
+Content-Length: 79
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Runtime: 0.009423
+X-Node: 7bb7b6a9-19ab-4a4a-957d-f39c144ad04e
+X-Revision: 392798d237fc1aa5cd55cada10d2945773e741a8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Via: 1.1 vegur
+
+https://github.com/mpr1255/robin/raw/main/robin_munro_memories_and_tributes.pdf
